@@ -3,7 +3,7 @@
 
 This project was prepared using HTML-5, CSS-3 and Bootstrap features
 
-This wenpage consists of information and registration forms about a React course
+This webpage consists of information and registration forms about a React course
 
 
 
