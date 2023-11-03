@@ -1,0 +1,9 @@
+body::before{
+    display: block;
+    content: '';
+    height: 100px;
+
+}
+html{
+    scroll-behavior:smooth;
+}
