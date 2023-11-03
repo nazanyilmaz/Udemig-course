@@ -7,7 +7,8 @@ This webpage consists of information and registration forms about a React course
 
 
 
-![](project.gif)
+
+
 
 
 
