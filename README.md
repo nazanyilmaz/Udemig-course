@@ -10,11 +10,8 @@ This webpage consists of information and registration forms about a React course
 <h1>Project Gift</h1>
 
 
+![Screen Recording 2023-11-26 at 06 52 51 PM](https://github.com/nazanyilmaz/Udemig-course/assets/147782488/c9d9311f-8394-409a-9431-f21bba235d00)
 
-
-
-
-https://github.com/nazanyilmaz/Udemig-course/assets/147782488/9a5bf75e-2948-4d17-94e1-7c6e67acfbbf
 
 
 
